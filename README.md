@@ -1,2 +1,3 @@
 # Agroconsultant
 Agroconsultant-A smart crop advice system using ML
+A machine learning-based tool that helps farmers choose the best crops for their agricultural area is the Crop Recommendation System using ML. The system offers tailored recommendations to enhance crop selection, data gathered from kaggle, by analysing several aspects including soil type, climatic conditions, and historical crop data. To analyse input information and generate precise predictions, it uses machine learning techniques. With the help of this technology, farmers will be able to choose the best crops for their particular fields or areas, increase agricultural productivity, and reduce risks.
